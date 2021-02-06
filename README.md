@@ -52,24 +52,24 @@ $ pip install pdfminer
 ## Import the following required packages where needed in the Jupiter Notebook file
 
 
--import pandas as pd
--import numpy as np
--from google.colab import drive
--import nltk
--from nltk import word_tokenize, FreqDist
--from nltk.tokenize import sent_tokenize
--import sys
--import io
--import glob, os
--import re
--import codecs
--import warnings
--from sklearn.feature_extraction.text import TfidfTransformer
--from sklearn.feature_extraction.text import CountVectorizer
--from sklearn.naive_bayes import MultinomialNB
--from sklearn.model_selection import train_test_split
--import fasttext
--import csv
+- import pandas as pd
+- import numpy as np
+- from google.colab import drive
+- import nltk
+- from nltk import word_tokenize, FreqDist
+- from nltk.tokenize import sent_tokenize
+- import sys
+- import io
+- import glob, os
+- import re
+- import codecs
+- import warnings
+- from sklearn.feature_extraction.text import TfidfTransformer
+- from sklearn.feature_extraction.text import CountVectorizer
+- from sklearn.naive_bayes import MultinomialNB
+- from sklearn.model_selection import train_test_split
+- import fasttext
+- import csv
 
   
 
