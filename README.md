@@ -19,7 +19,7 @@ Proposition 1A: The higher the i, the lower the j.
   
 
 # Requirements
-* The Hypothesis_Text_Classification_NLP.ipynp Jupiter Notebook file can be run on Google Colab or Jupiter Notebook
+* The Hypothesis_Text_Classification_NLP.ipynp Jupiter Notebook file can be run on Google Colab or Jupyter Notebook
 
 * The scientific/academic research documents used in the project can be downloaded from [dropbox](https://www.dropbox.com/sh/q49mnn6i575b8nh/AAByLkuQuU4RLJ44o0i-Fiuma?dl=0).
 
