@@ -49,7 +49,7 @@ $ pip install pdfminer
 
   
 
-## Import the following required packages where needed in the Jupiter Notebook file
+## Import the following required packages where needed in the Jupyter Notebook file
 
 
 - import pandas as pd
